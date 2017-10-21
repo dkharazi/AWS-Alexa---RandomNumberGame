@@ -1,0 +1,6 @@
+RandomNumberIntent is your number {Num}
+RandomNumberIntent is the number {Num}
+RandomNumberIntent i guess your number is {Num}
+RandomNumberIntent the number is {Num}
+
+

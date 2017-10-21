@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": “RandomNumberIntent",
+      "slots": [
+      {
+          "name": “Num”,
+          "type": "NUMBER"
+        }
+      ]
+    }
+  ]
+}
